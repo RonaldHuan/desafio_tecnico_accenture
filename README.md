@@ -1,6 +1,6 @@
 # desafio_tecnico_accenture
 
-# PRE REQUISITOS
+# PRÉ REQUISITOS
     Para execução deve estar instalado no eclipse o plugin do testng
     
 # EXECUÇÃO:
